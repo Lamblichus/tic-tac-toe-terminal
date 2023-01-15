@@ -4,3 +4,5 @@
 - cd Tic-Tac-Toe-Terminal     
 # 3 - Run the app
 - /bin/python /home/faruk/tic-tac-toe-terminal/tictactoe.py
+
+# Enjoy 
