@@ -3,6 +3,6 @@
 # 2 - Cd the folder
 - cd Tic-Tac-Toe-Terminal     
 # 3 - Run the app
-- /bin/python /home/faruk/tic-tac-toe-terminal/tictactoe.py
+- /bin/python /home/yourhomefolder/tic-tac-toe-terminal/tictactoe.py
 
-# Enjoy 
+# 4 - Enjoy 
